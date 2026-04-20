@@ -1,0 +1,94 @@
+.custif-iframe-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    overflow: hidden;
+}
+
+/* Iframe base styles */
+.custif-iframe-wrapper iframe {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    box-sizing: border-box;
+}
+
+/* Elementor editor specific fixes */
+.elementor-editor-active .custif-iframe-wrapper {
+    min-width: 0;
+    flex-shrink: 1;
+}
+
+.elementor-editor-active .custif-iframe-wrapper iframe {
+    min-width: 0;
+    max-width: 100% !important;
+}
+
+/* Alignment classes */
+.custif-iframe-align-left .custif-iframe-wrapper {
+    margin-right: auto;
+    margin-left: 0;
+    width: 100%;
+}
+
+.custif-iframe-align-center .custif-iframe-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.custif-iframe-align-right .custif-iframe-wrapper {
+    margin-left: auto;
+    margin-right: 0;
+    width: 100%;
+}
+
+/* Notice styles */
+.custif-iframe-notice {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px;
+    border-radius: 3px;
+    background-color: #FEF2F2;
+    border: 1px solid #FEE2E2;
+    color: #991B1B;
+    margin: 16px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.custif-iframe-notice .notice-icon {
+    flex-shrink: 0;
+}
+
+.custif-iframe-notice .notice-icon svg {
+    width: 24px;
+    height: 24px;
+    color: currentColor;
+}
+
+.custif-iframe-notice p {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+/* Maintain alignment with your existing classes */
+.custif-iframe-align-left .custif-iframe-notice {
+    margin-right: auto;
+    margin-left: 0;
+}
+
+.custif-iframe-align-center .custif-iframe-notice {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.custif-iframe-align-right .custif-iframe-notice {
+    margin-left: auto;
+    margin-right: 0;
+}

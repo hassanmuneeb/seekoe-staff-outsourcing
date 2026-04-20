@@ -1,0 +1,64 @@
+				@font-face {
+					font-family: 'trap';
+					src: url('./6111Trap.woff2') format('woff2'),
+						url('./6111Trap.woff') format('woff');
+					font-weight: 300; font-style: normal; font-display: auto;
+				}
+
+				.trap{font-family: 'trap' !important;}
+
+						@font-face {
+					font-family: 'trap';
+					src: url('./235Trap.woff2') format('woff2'),
+						url('./235Trap.woff') format('woff');
+					font-weight: 400; font-style: normal; font-display: auto;
+				}
+
+				.trap{font-family: 'trap' !important;}
+
+						@font-face {
+					font-family: 'trap';
+					src: url('./8964Trap.woff2') format('woff2'),
+						url('./8964Trap.woff') format('woff');
+					font-weight: 500; font-style: normal; font-display: auto;
+				}
+
+				.trap{font-family: 'trap' !important;}
+
+						@font-face {
+					font-family: 'trap';
+					src: url('./3162Trap.woff2') format('woff2'),
+						url('./3162Trap.woff') format('woff');
+					font-weight: 600; font-style: normal; font-display: auto;
+				}
+
+				.trap{font-family: 'trap' !important;}
+
+						@font-face {
+					font-family: 'trap';
+					src: url('./2786Trap.woff2') format('woff2'),
+						url('./2786Trap.woff') format('woff');
+					font-weight: 700; font-style: normal; font-display: auto;
+				}
+
+				.trap{font-family: 'trap' !important;}
+
+						@font-face {
+					font-family: 'trap';
+					src: url('./9700Trap.woff2') format('woff2'),
+						url('./9700Trap.woff') format('woff');
+					font-weight: 800; font-style: normal; font-display: auto;
+				}
+
+				.trap{font-family: 'trap' !important;}
+
+						@font-face {
+					font-family: 'trap';
+					src: url('./5522Trap.woff2') format('woff2'),
+						url('./5522Trap.woff') format('woff');
+					font-weight: 900; font-style: normal; font-display: auto;
+				}
+
+				.trap{font-family: 'trap' !important;}
+
+		

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_reference_mirror/
+Disallow: /storage/
+
+Sitemap: https://seekoe.com/sitemap.xml

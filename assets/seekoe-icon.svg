@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none" role="img" aria-labelledby="seekoeIconTitle seekoeIconDesc">
+  <title id="seekoeIconTitle">SEEKOE favicon</title>
+  <desc id="seekoeIconDesc">Seekoe favicon with a rounded-square coral badge and stylized S mark.</desc>
+  <defs>
+    <linearGradient id="seekoeIconCoral" x1="96" y1="72" x2="416" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8C6C"/>
+      <stop offset="1" stop-color="#FF5B55"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="64" y="64" width="384" height="384" rx="112" fill="url(#seekoeIconCoral)"/>
+  <path d="M340 156C320.133 136.533 294.333 126.8 262.6 126.8C214.911 126.8 184.267 146.644 184.267 180.8C184.267 212.533 204.511 231.511 245 237.733L290.511 244.333C316.178 248.222 329.011 258.711 329.011 275.8C329.011 297.178 309.178 307.867 269.489 307.867C232.156 307.867 200.467 296 174.422 272.267"
+    stroke="#0E3254" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="349" cy="143" r="21" fill="#0E3254"/>
+</svg>

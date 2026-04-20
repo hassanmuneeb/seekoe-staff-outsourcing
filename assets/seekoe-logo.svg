@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="183" viewBox="0 0 660 183" fill="none" role="img" aria-labelledby="seekoeLogoTitle seekoeLogoDesc">
+  <title id="seekoeLogoTitle">SEEKOE wordmark</title>
+  <desc id="seekoeLogoDesc">Seekoe brand wordmark with a rounded-square symbol and uppercase lettering.</desc>
+  <defs>
+    <linearGradient id="seekoeCoral" x1="24" y1="20" x2="164" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8C6C"/>
+      <stop offset="1" stop-color="#FF5B55"/>
+    </linearGradient>
+    <filter id="seekoeShadow" x="0" y="0" width="190" height="190" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#0E3254" flood-opacity=".14"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#seekoeShadow)">
+    <rect x="24" y="28" width="120" height="120" rx="32" fill="url(#seekoeCoral)"/>
+  </g>
+
+  <path d="M108 60C101.2 53.3333 92.3667 50 81.5 50C65.1667 50 54.6667 56.8 54.6667 68.5C54.6667 79.3667 61.6 85.8667 75.4667 88L91.0667 90.2667C99.8667 91.6 104.267 95.2 104.267 101.067C104.267 108.4 97.4667 112.067 83.8667 112.067C71.0667 112.067 60.2 108 51.2667 99.8667"
+    stroke="#0E3254" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="110.5" cy="55.5" r="7.5" fill="#0E3254"/>
+
+  <text x="182" y="112" fill="#0E3254" font-family="'Avenir Next', 'Montserrat', 'Segoe UI', Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="7">SEEKOE</text>
+  <rect x="186" y="126" width="152" height="8" rx="4" fill="#FF6F61"/>
+</svg>
