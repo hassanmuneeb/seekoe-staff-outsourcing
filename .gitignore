@@ -1,3 +1,75 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime / generated output
+storage/
+tmp/
+temp/
+*.pid
+*.seed
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Dependency folders
+node_modules/
+
+# IDEs and editors
 .idea/
+.vscode/
 .history/
+.vs/
+*.code-workspace
+
+# JetBrains
+*.iml
+
+# Visual Studio / VS Code local state
+.project
+.classpath
+.settings/
+
+# Vim / Emacs / editor swap
+*.swp
+*.swo
+*~
+
+# AI / agent tooling
 .claude/
+.cursor/
+.cursorrules
+.cursorignore
+.codeium/
+.codes/
+.codex/
+.continue/
+.windsurf/
+.aider/
+.roo/
+.roo-code/
+.copilot/
+.gemini/
+.qodo/
+.tabnine/
+
+# Local formatter / tool caches
+.cache/
+.tmp/
+.sass-cache/
+.eslintcache
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
